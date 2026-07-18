@@ -1,8 +1,10 @@
 title: Charlis Curley
 description: Data, performance and transformation work, Power BI projects, and writing.
+author: Charlis Curley
+github_username: CharlisCurley
 theme: minima
 minima:
-  skin: dark
+  skin: classic
   date_format: "%-d %B %Y"
 
 header_pages:
@@ -12,7 +14,6 @@ header_pages:
 plugins:
   - jekyll-feed
 
-# Prevents Jekyll from trying to build these
 exclude:
   - README.md
   - Gemfile
